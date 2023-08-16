@@ -1,6 +1,6 @@
 settings:
   title: 'Theo dõi sever'
-  url: 'https://status.hmodapk.comcom' # used for Slack & Discord messages
+  url: 'https://status.hmodapk.com' # used for Slack & Discord messages
   logo: logo-hmodapk.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
   collectResponseTimes: false # experimental feature, enable only for <5 monitors or on paid plans
